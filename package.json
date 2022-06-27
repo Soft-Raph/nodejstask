@@ -1,0 +1,23 @@
+{
+  "name": "crud_utiva",
+  "version": "1.0.0",
+  "description": "node js crud learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "utivacrud"
+  },
+  "keywords": [
+    "crud"
+  ],
+  "author": "ariyo",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "yup": "^0.32.11"
+  }
+}
